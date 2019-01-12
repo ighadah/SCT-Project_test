@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/10211000132109"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/105529008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/10692681000119108"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/10811201000119102"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/11851006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/141091000119105"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/1591000119103"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/190330002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/190331003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/191483003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/191496002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/191737008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/193000002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/193021002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/195154000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/195232006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/195233001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/195234007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/195235008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/197480006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/199257008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/200118004"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/21454007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/21831000119109"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/230724001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/231504006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/233983001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/250993004"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/250994005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/250995006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/250996007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/250997003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/253400002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/270907008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/277196008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/28055006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/31373002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/32552001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/35252006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/35489007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/368601000119102"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/38341003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/407674008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/422126006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/422527005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/42399005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/426705001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/44993000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/46764007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/48500005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/49220004"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/4926007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/50933003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/5368009"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/56453003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/58703003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/69322001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/702711004"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/720519003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/722206009"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/75372006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/7761000119106"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/78495000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/82381000119103"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/82525005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/84114007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/84757009"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/86466006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/8801005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/93432008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/95458005"/>
+    </Declaration>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 3.5.4) http://owlapi.sourceforge.net -->
+

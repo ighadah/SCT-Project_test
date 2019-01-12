@@ -1,0 +1,1130 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#"
+     xml:base="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#102455002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#102455002"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#10406007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#10406007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#111395007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#111395007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#111407006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#111407006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#124274002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#124274002"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#126880001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#126880001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#14669001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#14669001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#155441006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#155441006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#15689008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#15689008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#15842009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#15842009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#1776003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#1776003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#17901006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#17901006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#18417009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#18417009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#190681003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#190681003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#190919008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#190919008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#197744007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#197744007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#197764002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#197764002"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#197808006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#197808006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#204949001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#204949001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#204958008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#204958008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#226309007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#226309007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#23132008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#23132008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#232059000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#232059000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236015007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236015007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236017004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236017004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236384008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236384008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236385009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236385009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236398000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236398000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236403004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236403004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236409000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236409000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236411009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236411009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236418003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236418003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236419006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236419006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236421001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236421001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236428007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236428007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236439005 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236439005"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236443009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236443009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236461000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236461000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236466005 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236466005"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236488005 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236488005"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236506009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236506009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236513009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236513009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236527004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236527004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236706006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#236706006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#23697004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#23697004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#237604008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#237604008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#237743003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#237743003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#237770005 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#237770005"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#237885008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#237885008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#239928004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#239928004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#240096000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#240096000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#24750000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#24750000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#24790002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#24790002"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#249582007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#249582007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#253864004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#253864004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#253878003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#253878003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#253879006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#253879006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#253900005 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#253900005"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#253904001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#253904001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#254915003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#254915003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#267441009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#267441009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#274945004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#274945004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#28770003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#28770003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#2900003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#2900003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#290006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#290006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#29738008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#29738008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#302233006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#302233006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#302849000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#302849000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#307604008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#307604008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#31742004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#31742004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#3321001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#3321001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#33763006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#33763006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#35546006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#35546006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#35759001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#35759001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#36171008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#36171008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#36689008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#36689008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#3704008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#3704008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#373420004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#373420004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#373421000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#373421000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#373422007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#373422007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#373584008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#373584008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#373585009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#373585009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#373604002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#373604002"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#37497004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#37497004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#38898003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#38898003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#40733004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#40733004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#408642003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#408642003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#40951006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#40951006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#41729002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#41729002"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#42399005 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#42399005"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#43941006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#43941006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#44323002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#44323002"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#444558002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#444558002"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#444645005 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#444645005"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#444690001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#444690001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#444717006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#444717006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#444749006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#444749006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#444794000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#444794000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#444830001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#444830001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#444976001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#444976001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#445108007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#445108007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#445119005 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#445119005"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#445236007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#445236007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#445387007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#445387007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#445431000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#445431000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#446449009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#446449009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#446989009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#446989009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#446991001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#446991001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#447335007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#447335007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#449820008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#449820008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#45582004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#45582004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#46659004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#46659004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#46785007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#46785007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#48713002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#48713002"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#48796009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#48796009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#49120005 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#49120005"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#50581000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#50581000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#51292008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#51292008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#5187006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#5187006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#52254009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#52254009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#53298000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#53298000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#59479006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#59479006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#609572000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#609572000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#61758007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#61758007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#63247009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#63247009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#65520001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#65520001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#698757009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#698757009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#698953004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#698953004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#705065000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#705065000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#707208009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#707208009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#707742001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#707742001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#707747007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#707747007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#707756004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#707756004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#710571007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#710571007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#711152006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#711152006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#713887002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#713887002"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#7199000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#7199000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722077007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722077007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722078002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722078002"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722081007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722081007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722082000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722082000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722085003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722085003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722086002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722086002"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722088001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722088001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722089009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722089009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722095005 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722095005"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722096006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722096006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722098007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722098007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722118005 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722118005"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722119002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722119002"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722120008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722120008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722139003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722139003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722147003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722147003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722149000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722149000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722150000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722150000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722168002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722168002"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722278006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722278006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722369003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722369003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722467000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722467000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722468005 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722468005"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722721004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#722721004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#723074006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#723074006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#723373006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#723373006"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#726017001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#726017001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#73305009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#73305009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#734990008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#734990008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#736992003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#736992003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#736993008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#736993008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#737562008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#737562008"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#75888001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#75888001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#765330003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#765330003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#7725007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#7725007"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#77377001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#77377001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#78129009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#78129009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#79385002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#79385002"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#80640009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#80640009"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#80710001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#80710001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#82236004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#82236004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#83866005 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#83866005"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#85020001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#85020001"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#90241004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#90241004"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#90505000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#90505000"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#90688005 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#90688005"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#95566004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191#95566004"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

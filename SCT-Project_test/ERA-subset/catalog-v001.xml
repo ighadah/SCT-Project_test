@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1545084825005" name="http://www.semanticweb.org/ghadahalghamdi/ontologies/2018/11/untitled-ontology-191" uri="era-subset-classes.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1545084825005" name="duplicate:http://www.w3.org/2002/07/owl#" uri="intl_to_aus_witness_complete.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1545084825005" name="duplicate:http://www.w3.org/2002/07/owl#" uri="intl_to_can_witness_complete.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1545084825005" name="duplicate:http://www.w3.org/2002/07/owl#" uri="jan_to_jul_witness_complete.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1545084825005" name="duplicate:http://www.w3.org/2002/07/owl#" uri="aus_to_intl_witness_complete.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1545084825005" name="duplicate:http://www.w3.org/2002/07/owl#" uri="jul_to_jan_witness_complete.owl"/>
+    </group>
+</catalog>
