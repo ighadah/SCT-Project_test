@@ -2,5 +2,35 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/substance-4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/commons-lang3-3.6.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/guice-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/owlapi-distribution-3.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/trove4j-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/org.semanticweb.HermiT.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-examples-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-excelant-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-lib/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-lib/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-lib/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-lib/jaxb-impl-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-lib/curvesapi-1.05.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-lib/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/poi-lib/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/ghadahalghamdi/git/SCT-Project_test/SCT-Project_test/lib/fame4ldiff-6-lib.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
